@@ -55,6 +55,12 @@ table.table a {
   }
 }
 
+.disable-link {
+  text-decoration: none;
+  cursor: default;
+  pointer-events: none;
+}
+
 blockquote {
   background: var(--global-bg-color);
   border-left: 5px solid var(--global-theme-color);
