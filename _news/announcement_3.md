@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2024-04-22 07:59:00-0400
+date: 2022-11-13
 inline: true
 related_posts: false
 ---
 
-Started as a Student Researcher at Google.
+<a href='https://ieeexplore.ieee.org/abstract/document/10279074'>Interpreting Neural Min-Sum Decoders </a> accepted to ICC 2023. 
+
